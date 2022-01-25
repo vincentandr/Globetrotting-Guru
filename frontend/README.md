@@ -5,7 +5,7 @@
 
 # Installing Dependencies
 
-`npm run install`
+`npm install`
 
 # Running With/Without Backend
 
