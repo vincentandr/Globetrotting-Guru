@@ -1,5 +1,7 @@
 # Globetrotting-Guru
 
+**Please follow the instructions on the README file in frontend folder for frontend demo. It is using fake backend as the real one needs AWS subscription to run on.**
+
 Created by:
 
 Dexter Fong Hoy Yik (Frontend and backend)
