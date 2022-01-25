@@ -1,0 +1,53 @@
+{
+  "place_id": {
+    "S": "33afe79e-eb3f-4e0b-95bd-b972851f14k2"
+  },
+  "budget": {
+    "M": {
+      "max": {
+        "N": "5"
+      },
+      "min": {
+        "N": "0"
+      }
+    }
+  },
+  "description": {
+    "S": "MacRitchie Reservoir is Singapore's oldest reservoir. The reservoir was completed in 1868 by impounding water from an earth embankment, and was then known as the Impounding Reservoir or Thomson Reservoir."
+  },
+  "images": {
+    "L": [
+      {
+        "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+      },
+      {
+        "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+      },
+      {
+        "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+      }
+    ]
+  },
+  "name": {
+    "S": "Singapore flyer"
+  },
+  "traffic": {
+    "S": "not crowded"
+  },
+  "weather": {
+    "S": "windy"
+  },
+  "tags": {
+    "L": [
+      {
+        "S": "Hiking"
+      },
+      {
+        "S": "Adventure"
+      },
+      {
+        "S": "Outdoors"
+      }
+    ]
+  }
+}

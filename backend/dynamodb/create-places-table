@@ -1,0 +1,13 @@
+{
+	"TableName": "places",
+	"KeySchema": [
+	  { "AttributeName": "place_id", "KeyType" : "HASH" }
+	],
+	"AttributeDefinitions": [
+      { "AttributeName": "place_id", "AttributeType": "S" }
+    ],
+	"ProvisionedThroughput": {
+      "ReadCapacityUnits": 5,
+      "WriteCapacityUnits": 5
+    }
+}

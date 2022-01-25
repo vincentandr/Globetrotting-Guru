@@ -1,0 +1,1243 @@
+{
+  "places": [
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "b54213d89a4a46f08e333e5b4205afe4"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "30"
+              },
+              "min": {
+                "N": "5"
+              }
+            }
+          },
+          "description": {
+            "S": "The Gardens by the Bay is a nature park spanning 101 hectares (250 acres) in the Central Region of Singapore, adjacent to the Marina Reservoir."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Garden by the bay"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Entertainment"
+              },
+              {
+                "S": "Art"
+              },
+              {
+                "S": "Performances"
+              },
+              {
+                "S": "Garden"
+              },
+              {
+                "S": "Romantic"
+              },
+              {
+                "S": "Outdoors"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "2659561ce3e044249972631e2e63479f"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "0"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "Merlion Park is a famous Singapore landmark and a major tourist attraction, located near One Fullerton, Singapore, near the Central Business District (CBD)."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Merlion park"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Park"
+              },
+              {
+                "S": "Body of Water"
+              },
+              {
+                "S": "Outdoors"
+              },
+              {
+                "S": "Attraction"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "61226eff710346308bf0c4cceec4c54c"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "250"
+              },
+              "min": {
+                "N": "200"
+              }
+            }
+          },
+          "description": {
+            "S": "CHIJMES is a historic building complex in Singapore, which began life as a Catholic convent known as the Convent of the Holy Infant Jesus (CHIJ)."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "CHIJMES"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Weddings"
+              },
+              {
+                "S": "Venue"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "a62a1f2ba5f9450e98664e082068ad83"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "50"
+              },
+              "min": {
+                "N": "25"
+              }
+            }
+          },
+          "description": {
+            "S": "Esplanade – Theatres on the Bay (also known as the Esplanade Theatres or simply The Esplanade) is a performing arts centre located in Downtown Core near the mouth of the Singapore River. Named after the nearby Esplanade Park, it consists of a concert hall which seats about 1,600 and a theatre with a capacity of about 2,000 for the performing arts."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Esplanade theatres on the bay"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Theatres"
+              },
+              {
+                "S": "Performances"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "3eb959b3e98a4a62a2cc33d78b1b260e"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "35"
+              },
+              "min": {
+                "N": "10"
+              }
+            }
+          },
+          "description": {
+            "S": "The Singapore Flyer is a giant observation wheel at Downtown Core, Singapore."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Singapore flyer"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Attraction"
+              },
+              {
+                "S": "Romantic"
+              },
+              {
+                "S": "Outdoors"
+              },
+              {
+                "S": "Family-friendly"
+              },
+              {
+                "S": "Entertainment"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "ae4de0962ea84aa7a104913d3f7df851"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "5"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "The Arts House (formerly Old Parliament House) is a building in Singapore. It is currently a multi-disciplinary arts venue which plays host to art exhibitions and concerts."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Old parliament house"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Venue"
+              },
+              {
+                "S": "Art"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "28e79dd034954f3eb7c1a8b611bedbfd"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "20"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "The National Gallery Singapore is an art museum located in the Downtown Core district of Singapore."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "National gallery singapore"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Museum"
+              },
+              {
+                "S": "Art"
+              },
+              {
+                "S": "Indoors"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "81b3449eda784a19905a4086738ee3ef"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "30"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "The Istana is the official residence and office of the President of Singapore. Meaning 'palace' in Malay, it is where the President receives and entertains state guests. "
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "The istana"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Museum"
+              },
+              {
+                "S": "Indoors"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "0ccb00878b1d4a76b03d3093db439202"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "500"
+              },
+              "min": {
+                "N": "300"
+              }
+            }
+          },
+          "description": {
+            "S": "The Fullerton Hotel Singapore is a five-star luxury hotel located near the mouth of the Singapore River, in the Downtown Core of the Central Area, Singapore."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "The fullerton hotel singapore"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Hotel"
+              },
+              {
+                "S": "Romantic"
+              },
+              {
+                "S": "Luxury"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "8eafe6ea29da42deb55f4f45803322f8"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "5"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "The Helix Bridge, officially The Helix, and previously known as the Double Helix Bridge, is a pedestrian bridge linking Marina Centre with Marina South in the Marina Bay area in Singapore."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Helix bridge"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Outdoors"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "ca58dfaddc3a47e696d02f25fe462cfe"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "100"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "Parkview Square is an office building located in the Downtown Core Planning Area, Central Region, Singapore."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Parkview square"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Luxury"
+              },
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Indoors"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "18e34a58188d4cab9a5e070eb9ba907c"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "1000"
+              },
+              "min": {
+                "N": "400"
+              }
+            }
+          },
+          "description": {
+            "S": "The Marina Bay Sands (abbreviation: MBS) is an integrated resort fronting Marina Bay within the Downtown Core district of Singapore."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Marina bay sands"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Hotel"
+              },
+              {
+                "S": "Shopping"
+              },
+              {
+                "S": "Luxury"
+              },
+              {
+                "S": "International"
+              },
+              {
+                "S": "Romantic"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "da6aeb083863422097a5e628efc580df"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "0"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "Jewel Changi Airport (also known as Jewel or Jewel Changi) is a nature-themed entertainment and retail complex on the inside of Changi Airport, Singapore, linked to three of its passenger terminals."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Jewel"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Shopping"
+              },
+              {
+                "S": "Luxury"
+              },
+              {
+                "S": "Indoors"
+              },
+              {
+                "S": "Entertainment"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "38138920002f4bfdb5f9e9b6cd17a851"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "0"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "The air traffic control tower (ATC) was constructed in Phase One, sited in between the first two runways and stands at about 81 m above mean sea level (AMSL)."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Changi airport control tower"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Attraction"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "c94e1b985feb403e99befdd9f2aa5661"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "0"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "Golden Mile Complex is a high-rise commercial and residential building on Beach Road in Kallang, Singapore, within walking distance to Nicoll Highway MRT station."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Golden mile complex"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "8bcd5c088bfa43efb4a91244d7a0675a"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "0"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "Funan is a mixed used development comprising a retail mall, two office towers and a serviced apartment tower in the Civic District in Singapore. "
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Funan"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Indoors"
+              },
+              {
+                "S": "Shopping"
+              },
+              {
+                "S": "Art"
+              },
+              {
+                "S": "Entertainment"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "3864af5356b34a538a8128b5d11f9006"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "400"
+              },
+              "min": {
+                "N": "200"
+              }
+            }
+          },
+          "description": {
+            "S": "Parkroyal Collection Pickering, Singapore (stylised as PARKROYAL COLLECTION Pickering, Singapore, formerly PARKROYAL on Pickering) is a luxury hotel located in the Central Area of Singapore."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Parkroyal on pickering"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Hotel"
+              },
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Garden"
+              },
+              {
+                "S": "Luxury"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "6c68f985509d431896682024422d2781"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "0"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "An amalgamation of post-industrial american architectural influences, cast alongside a fortified Gothic tower, and rooted in industrial Singapore."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "The mill"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Indoors"
+              },
+              {
+                "S": "Art"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "68f022fa203c416b8a2eccff50ff5f9e"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "0"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "The Hive, also known as the Learning Hub, is a building located in Nanyang Technological University, Singapore."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "The hive NTU"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "5694174c0fb34ff1b7db77d99e961f8e"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "0"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "The Central Fire Station is the oldest existing fire station in Singapore, and is located at Hill Street in the Museum Planning Area, within the Central Area."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Central fire station"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Museum"
+              },
+              {
+                "S": "Indoors"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "525d17e0c07142dfbc02e95a445e77c0"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "5"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "Reflections at Keppel Bay in Singapore is luxury waterfront residential complex on approx 84,000 m square of land with 750m of shoreline."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Reflections at keppel bay"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Art"
+              },
+              {
+                "S": "Body of Water"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "e939358a9d3c4f6ca79be8dacabf9d3f"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "5"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "People's Park Complex is a high-rise commercial and residential building on Park Road off Eu Tong Sen Street in Outram, within People's Park in Singapore next to Chinatown MRT station."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "People's park complex"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "f9485399845b4838a3e62d27ee2e6f3f"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "0"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "Wave-shaped 36-m pedestrian bridge connecting Mount Faber Park to Telok Blangah Hill Park."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Henderson waves"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Outdoors"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "place_id": {
+            "S": "e9afa636a2ab41caa42e8ef552c5b754"
+          },
+          "budget": {
+            "M": {
+              "max": {
+                "N": "80"
+              },
+              "min": {
+                "N": "0"
+              }
+            }
+          },
+          "description": {
+            "S": "ArtScience Museum is a museum within the integrated resort of Marina Bay Sands in the Downtown Core of the Central Area in Singapore."
+          },
+          "images": {
+            "L": [
+              {
+                "S": "https://images.prismic.io/99-content/ea164bba-c625-42c8-a913-60befb6dc2cf_macritchie-reservoir-park-singapore-3.png"
+              },
+              {
+                "S": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/02/7f/f0/macritchie-reservoir.jpg"
+              },
+              {
+                "S": "https://mywowo.net/media/images/cache/singapore_macritchie_reservoir_01_introduzione_jpg_1200_630_cover_85.jpg"
+              }
+            ]
+          },
+          "name": {
+            "S": "Artscience museum"
+          },
+          "tags": {
+            "L": [
+              {
+                "S": "Architecture"
+              },
+              {
+                "S": "Museum"
+              },
+              {
+                "S": "Art"
+              },
+              {
+                "S": "Indoors"
+              },
+              {
+                "S": "Entertainment"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

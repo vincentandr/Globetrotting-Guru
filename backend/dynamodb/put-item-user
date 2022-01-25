@@ -1,0 +1,49 @@
+{
+  "user_id": {
+    "S": "3349e467-c16c-42a3-9c6b-8fb8f49fa659"
+  },
+  "username": {
+    "S": "t.hanks@gmail.com"
+  },
+  "first_name": {
+    "S": "Tom"
+  },
+  "last_name": {
+    "S": "Hanks"
+  },
+  "budget": {
+    "M": {
+      "max": {
+        "N": "100"
+      },
+      "min": {
+        "N": "0"
+      }
+    }
+  },
+  "interests": {
+    "L": [
+      {
+        "S": "Outdoors"
+      }
+    ]
+  },
+  "places": {
+    "M": {
+      "likes": {
+        "L": [
+          {
+            "S": "33afe79e-eb3f-4e0b-95bd-b972851f14f0"
+          }
+        ]
+      },
+      "dislikes": {
+        "L": [
+          {
+            "S": "3057cd6b-707a-44ec-b6c7-d74c4d4b4a0b"
+          }
+        ]
+      }
+    }
+  }
+}
