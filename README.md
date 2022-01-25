@@ -2,10 +2,10 @@
 
 Created by:
 
-Dexter Fong Hoy Yik (A0229591W) (Frontend and backend)
-Liu Tianhang (A0167038B) (Machine Learning)
-Ma Zhaoyang (A0198918E) (Cloud architecture)
-Vincent Andrian Chandra (A0212221E) (Backend and database)
+Dexter Fong Hoy Yik (Frontend and backend)
+Liu Tianhang (Machine Learning)
+Ma Zhaoyang (Cloud architecture)
+Vincent Andrian Chandra (Backend and database)
 
 A Software-as-a-Service (SaaS) web application that connects tourism businesses impacted by COVID-19 to customers in their host communities i.e. Singapore.
 
