@@ -17,12 +17,13 @@ photos which are then used to tailor the recommendations provided.
 
 ## Screenshots
 
+Screenshot 1 
 ![image](https://user-images.githubusercontent.com/42005057/150919715-603d4de9-e3e9-462b-874d-24a2ab2028cd.png)
-
+Screenshot 2
 ![image](https://user-images.githubusercontent.com/42005057/150919834-5f41b9e4-ea6e-4567-abb7-204e7e1017de.png)
-
+Screenshot 3
 ![image](https://user-images.githubusercontent.com/42005057/150920177-68a60533-f91c-4c13-ac9f-4b645aaf17a1.png)
-
+Screenshot 4
 ![image](https://user-images.githubusercontent.com/42005057/150919926-946280f9-976d-4474-981a-eeb7b99c6b21.png)
 
 ## Software Architecture
